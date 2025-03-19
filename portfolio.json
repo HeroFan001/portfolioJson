@@ -3,9 +3,10 @@
 		"id": "1",
 		"title": "Flex",
 		"photo_url": "https://res.cloudinary.com/dksuwj92i/image/upload/v1740729439/47111638-af3b-4212-9ef6-eafae6f45fe1.png",
-		"repo-link": "https://github.com/HeroFan001/flex",
+		"repo_link": "https://github.com/HeroFan001/flex",
 		"topics": [
-			"CSS"
+			"CSS",
+			"Flexbox vs grid elrendezés"
 		],
 		"site-link": "https://github.com/HeroFan001/flex.git"
 	},
