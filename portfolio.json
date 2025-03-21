@@ -7,6 +7,7 @@
 		"topics": [
 			"CSS",
 			"Flexbox vs grid elrendezés"
+			"Objektumok destrukturálása"
 		],
 		"site_link": "https://github.com/HeroFan001/flex.git"
 	},
@@ -16,7 +17,10 @@
 		"photo_url": "https://res.cloudinary.com/dksuwj92i/image/upload/v1740729883/1522db70-b57d-4bfa-9889-0d98da43f5fc.png",
 		"repo_link": "https://github.com/HeroFan001/profil.git",
 		"topics": [
-			"Spread operator"
+			"Reszponzív design"
+			"Flexbox vs grid elrendezés"
+			"Objektumok destrukturálása"
+			"Popover"
 		],
 		"site_link": "..."
 	},
@@ -27,6 +31,9 @@
 		"repo_link": "https://github.com/HeroFan001/viragok.git",
 		"topics": [
 			"JavaScript"
+			"Fetch API használata"
+			"adatok programozott renderelése"
+			"reszponzív design" 
 		],
 		"site_link": "..."
 	},
@@ -36,7 +43,12 @@
 		"photo_url": "https://res.cloudinary.com/dksuwj92i/image/upload/v1740730003/0a9b9b0f-8a09-4cf9-adf1-0f9b2bb5e23d.png",
 		"repo_link": "https://github.com/HeroFan001/ingatlanok.git",
 		"topics": [
-			"Logika"
+			"fetch API"
+			"Set adatszerkezet"
+			"Array.from()"
+			"radió gombok használata"
+			"checkboxok használata"
+			"select használata"
 		],
 		"site_link": "..."
 	},
@@ -46,7 +58,12 @@
 		"photo_url": "https://res.cloudinary.com/dksuwj92i/image/upload/v1740730285/6f803028-b1f8-4d8a-85b2-1fa1d2e060dd.png",
 		"repo_link": "https://github.com/HeroFan001/lista.git",
 		"topics": [
-			"gyumolcsok"
+			"fetch API"
+			"adatok szűrése"
+			"oldallapozás megvalósítása"
+			"reszponzív design"
+			"Tailwind"
+			"Popover API"
 		],
 		"site_link": "..."
 	}
